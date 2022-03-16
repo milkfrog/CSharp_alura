@@ -1,0 +1,8 @@
+C:\git\alura\CSharp\Parte3_heritage\ByteBank\bin\Debug\ByteBank.exe.config
+C:\git\alura\CSharp\Parte3_heritage\ByteBank\bin\Debug\ByteBank.exe
+C:\git\alura\CSharp\Parte3_heritage\ByteBank\bin\Debug\ByteBank.pdb
+C:\git\alura\CSharp\Parte3_heritage\ByteBank\obj\Debug\ByteBank.csproj.AssemblyReference.cache
+C:\git\alura\CSharp\Parte3_heritage\ByteBank\obj\Debug\ByteBank.csproj.SuggestedBindingRedirects.cache
+C:\git\alura\CSharp\Parte3_heritage\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\git\alura\CSharp\Parte3_heritage\ByteBank\obj\Debug\ByteBank.exe
+C:\git\alura\CSharp\Parte3_heritage\ByteBank\obj\Debug\ByteBank.pdb
